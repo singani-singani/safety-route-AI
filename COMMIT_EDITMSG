@@ -1,0 +1,9 @@
+Update application metadata and integrate mapping functionality
+
+Update HTML meta tags for SEO and social sharing, introduce routing for home and dashboard pages, integrate Leaflet for map display, and add related packages to package.json.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: edf54063-f015-45a4-b3c0-95a5c2c08cdc
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: 380b81aa-697e-4892-b01e-dd3b285311b2
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/459a30eb-4540-4a54-98e8-faf91aa32f9c/edf54063-f015-45a4-b3c0-95a5c2c08cdc/TSP1AVs
